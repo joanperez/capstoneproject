@@ -4,7 +4,7 @@
 Word Prediction Algorithm Scope
 ========================================================
 
-**Word Prediction Algorithm** is an input technology used where one word represents many words. The **Word Prediction Algorith** could allow for predict the next probable word. Predictive word makes efficient use of fewer device keys to input writing into a text message, an e-mail, an address book, a calendar, and the like.
+**Word Prediction Algorithm** is an input technology used where one word represents many words. The **Word Prediction Algorithm** could allow for predict the next probable word. Predictive word makes efficient use of fewer device keys to input writing into a text message, an e-mail, an address book, a calendar, and the like.
 
 **Advantages:**
 
