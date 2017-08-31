@@ -42,5 +42,5 @@ References
 
 [1]: https://github.com/joanperez/capstoneproject "Github"
 [2]: https://joanperez.shinyapps.io/word_prediction_algorithm/ "Word Prediction Algorithm"
-[3]: http://rpubs.com/joanperez/303240/ "Word Prediction Algorithm Presentation"
+[3]: http://rpubs.com/joanperez/303248/ "Word Prediction Algorithm Presentation"
 
