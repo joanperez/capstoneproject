@@ -1,5 +1,5 @@
 **Author: Joan Manuel Perez**
-**Date: 8/31/2017**
+Date: 8/31/2017
 
 Word Prediction Algorithm Scope
 ========================================================
