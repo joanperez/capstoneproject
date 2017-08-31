@@ -24,25 +24,23 @@ Then, **Word Prediction Algorithm** will provide the most probable word in blue 
 Word Prediction Algorithm Functionality
 ========================================================
 
-* **Word Prediction Algorithm** uses the [HC Corpora][1] dataset to analysis the word probabilities and predict the next probable word.
+* **Word Prediction Algorithm** uses the training dataset to analysis the word probabilities and predict the next probable word.
 
-* The [HC Corpora][1] dataset was normalized to organize the attributes relations of the data, in order to reduce data redundancy and improve data integrity.  Then was categorized into the most frequent word combinations using N-grams.
+* The training dataset was normalized to organize the attributes relations of the data, in order to reduce data redundancy and improve data integrity.  Then was categorized into the most frequent word combinations using N-grams.
 
-* Using these N-gram capabilities, the **Word Prediction Algorithm*** use the word submitted and predict the most probable next word and a list of additional alternatives with the probability.
-
-[1]: http://www.corpora.heliohost.org/ "HC Corpora"
+* Using these N-gram capabilities, the **Word Prediction Algorithm** use the word submitted and predict the most probable next word and a list of additional alternatives with the probability.
 
 References
 ========================================================
 
-Word Prediction Algorithm code and addtional information [Github][1]
+* Word Prediction Algorithm code and addtional information [Github][1]
 
-Word Prediction Algorithm Application [Word Prediction Algorithm][2]
+* Word Prediction Algorithm Application [Word Prediction Algorithm][2]
 
-The source [HC Corpora][3] data set and associated [About][4].
+* Word Prediction Algorithm Presentation [Word Prediction Algorithm Presentation][3]
+
 
 [1]: https://github.com/joanperez/capstoneproject "Github"
 [2]: https://joanperez.shinyapps.io/word_prediction_algorithm/ "Word Prediction Algorithm"
-[3]: http://www.corpora.heliohost.org/ "HC Corpora"
-[4]: http://www.corpora.heliohost.org/aboutcorpus.html "About"
+[3]: http://rpubs.com/joanperez/303240/ "Word Prediction Algorithm Presentation"
 
