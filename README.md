@@ -1,7 +1,5 @@
-* Word Prediction Algorithm Application
-========================================================
-author: Joan Manuel Perez
-date: 8/31/2017
+**Author: Joan Manuel Perez**
+**Date: 8/31/2017**
 
 Word Prediction Algorithm Scope
 ========================================================
